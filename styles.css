@@ -1,0 +1,66 @@
+/* Styles */
+
+body {
+	background-color: #00caff;
+	color: white;
+	font-family:;
+	border-style: solid;
+	border-width: 10px;
+
+
+ 
+}
+article {
+	max-width: 85em;
+	margin-left: 1em;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+	font-family: BASKERVILLE;
+
+
+}
+
+h1 {
+	color: blue;
+	font-size: 3em;
+	line-height: 1;
+
+}
+
+em{
+	font-size: 1.5em;
+}
+h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -0.025em;
+}
+
+p{
+	margin: 0 0 1em 0;
+	font-family: BASKERVILLE;
+	text-indent-left:1cm;
+
+	
+
+}
+h3 {
+	font-size: large;
+	line-height:;
+	color: blue;
+	font-family: BASKERVILLE;
+	text-transform: uppercase;
+}
+
+li{
+	font-size: large;
+}
+
+h4{
+	font-size: large;
+	color: blue;
+	font-family: BASKERVILLE;
+	text-transform: uppercase;
+}
+
